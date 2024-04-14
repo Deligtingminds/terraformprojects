@@ -1,4 +1,4 @@
-Launching AWS 
+Launching AWS EC2 Resources
 
 # Plan AWS
 
