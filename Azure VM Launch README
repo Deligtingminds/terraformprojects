@@ -1,6 +1,8 @@
 Terraform deployment with Azure resources
 
 
+Plan
+
 1. Installed Azure CLI 
 2. **Resource Group Creation**:
     - You created an Azure resource group named “example-resources” in the “UK West” location using the **`azurerm_resource_group`** resource.
